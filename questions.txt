@@ -1,0 +1,24 @@
+Question facile/directe:
+peux-tu te présenter en quelques mots ?
+est ce que tu parles français ?
+est ce que tu parles Anglais ?
+est ce que tu fais du sport ?
+t'aimes bien la lecture?
+est ce que tu lis les mangas ?
+que ce que tu fais à part les études ?
+quels sont les langages de programmations que tu utilises ?
+
+
+
+
+Question déduction:
+t'es né en Algérie ou en France?
+pourquoi as-tu choisi l’informatique comme domaine d’études ?
+comment gères-tu ton temps entre tes études, ton travail chez Carrefour et tes projets ?
+quelles sont tes missions en tant que manager chez Carrefour ?
+est ce que t'es à l'aise avec les gens ?
+est ce que t'es plus scientifique ou littéraire ?
+est ce que t'es bon en travail d'équipe ?
+pourquoi doit-on t'embaucher ?
+as-tu fait des projets en lien avec l’intelligence artificielle ?
+as-tu déjà travaillé sur un projet open-source ?
