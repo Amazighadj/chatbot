@@ -1,0 +1,24 @@
+{
+    "A propos de moi": [" Actuellement étudiant en L3 Informatique a Université Paris-Cité", 
+    "en parallèle Manager chez Carrefour et cofondateur de Yitagency",
+    "Passionné par la tech et le développement et l’IA", 
+    "Je souhaite poursuivre mes études en master afin d'approfondir mes connaissances et continuer à évoluer dans ce domaine. "],
+
+    "education": [
+        "Licence Informatique -- Parcours : Informatique générale. Université Paris-cité UFR Informatique.",
+        "Baccalauréat Mathématique avec une mention EXCELLENT obtenu en Algérie.",
+        "1ère année Cycle Préparatoire en Informatique fait après le bac en Algérie ESI (Alger)."
+    ],
+    "experiences": [
+        "Manager chez Carrefour (temps partiel). Mars 2023 -- Aujourd'hui",
+        "Cofondateur de Yitagency (agence de création de contenu). Octobre 2024 -- Aujourd'hui"
+    ],
+    "projects": [
+        "TowerBag - Jeu 2D - Java Swing - Equipe de 2 personnes",
+        "ChatBot - Q/R sur mon parcours. - Python",
+        "Pacman-remake - Mode noël / skins - Java fx - Equipe de 4 personnes",
+        "Aventurier du Rail - Jeu 2D - Java Swing - Equipe de 4 personnes"
+    ],
+    "languages": ["Anglais", "Français"],
+    "activities": ["Musique", "Football", "Lecture"]
+}
